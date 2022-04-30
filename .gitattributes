@@ -1,2 +1,13 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Random rand = new Random();
+int yes = 0 ;
+const int iterations = 10000000;
+for (i = 0; i < iterations; i++);
+{
+    if (rand.Next(1,101) <=25
+    {
+        yes++;
+    }
+}
+Console.Writeline((float)yes/iterations)
